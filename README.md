@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm mohamad from Iran ✌
+- 🌱 I’m currently learning JavaScript & ReactJS
 
 <!--
 **mohamadrezaganji/mohamadrezaganji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
